@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#div_change1
+{
+    background-color: greenyellow;
+    margin-right: 800px;
+    margin-top: -10px;
+}
+
+#div_change2
+{
+    background-color: greenyellow;
+    margin-left: 800px;
+    margin-top: -282px;
+}
+
+button
+{
+    background-color: green;
+    color: #ffffff;
+}
+
+.n2r
+{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
